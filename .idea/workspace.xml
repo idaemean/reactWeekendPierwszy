@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8fe5eeb8-235b-41a0-9e2a-bcfd92603302" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cw1/cw1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cw2/cw2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw2/LowestChild.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw2/nestedInParent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw3/cw3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw4/cw4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw5/cw5.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cw1/cw1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/cw1/cw1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cw2/cw2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/cw2/cw2.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,6 +35,11 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Student\WebstormProjects\zadaniedomowe\src\cw2" />
+    </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
@@ -57,14 +67,30 @@
       <option name="presentableId" value="Default" />
       <updated>1581169241207</updated>
       <workItem from="1581169242372" duration="2809000" />
-      <workItem from="1581235407573" duration="2316000" />
+      <workItem from="1581235407573" duration="7793000" />
     </task>
+    <task id="LOCAL-00001" summary="cw 1">
+      <created>1581237799874</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581237799874</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="cw 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="cw 1" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="585" y="115" key="CommitChangelistDialog2" timestamp="1581237798999">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="585" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1581237798999" />
     <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1581171960321">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -81,6 +107,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581171960321" />
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1581237805030">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1581237805030" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1581237301282">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

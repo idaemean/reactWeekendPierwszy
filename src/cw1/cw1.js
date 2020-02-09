@@ -76,7 +76,7 @@ export default class MyForm extends React.Component {
     render() {
         return (
             <form>
-                <h1>Hello {this.state.username} {this.state.age}{this.state.surname} {this.state.sex}</h1>
+                <h1>Hello {this.state.username} {this.state.surname} lat {this.state.age} płci {this.state.sex}</h1>
                 <p>Enter your name:</p>
                 <input
                     type='text'

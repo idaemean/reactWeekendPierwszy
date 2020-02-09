@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8fe5eeb8-235b-41a0-9e2a-bcfd92603302" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cw2/LowestLowestChild.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cw3/parent.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cw2/LowestChild.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/cw2/LowestChild.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cw3/cw3.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/cw3/cw3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1581169241207</updated>
       <workItem from="1581169242372" duration="2809000" />
-      <workItem from="1581235407573" duration="11295000" />
+      <workItem from="1581235407573" duration="11859000" />
     </task>
     <task id="LOCAL-00001" summary="cw 1">
       <created>1581237799874</created>
@@ -80,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581244933715</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="cw 3 - po modyfikacji">
+      <created>1581250519543</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1581250519543</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,17 +91,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="cw 1" />
     <MESSAGE value="cw 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="cw 2" />
+    <MESSAGE value="cw 3 - po modyfikacji" />
+    <option name="LAST_COMMIT_MESSAGE" value="cw 3 - po modyfikacji" />
   </component>
   <component name="WindowStateProjectService">
     <state x="694" y="324" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581246398457">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="694" y="324" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1581246398457" />
-    <state x="585" y="115" key="CommitChangelistDialog2" timestamp="1581244933058">
+    <state x="585" y="115" key="CommitChangelistDialog2" timestamp="1581250518811">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1581244933058" />
+    <state x="585" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1581250518811" />
     <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1581171960321">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -116,10 +119,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581171960321" />
-    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1581244937110">
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1581250522121">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1581244937110" />
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1581250522121" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1581237301282">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

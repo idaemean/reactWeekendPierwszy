@@ -1,10 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import Parent from './cw2/cw2';
+import Calc from './cw3/cw3';
 import * as serviceWorker from './serviceWorker';
 
-ReactDOM.render(<Parent />, document.getElementById('root'));
+ReactDOM.render(<Calc />, document.getElementById('root'));
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.

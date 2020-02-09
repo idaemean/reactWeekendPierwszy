@@ -1,11 +1,13 @@
 import React from 'react';
+import LowestLowestChild from "./LowestLowestChild";
 
-export default class LowestChild extends React.Component {
+export default class NestedInParent extends React.Component {
     render() {
         return (
             <div>
-                <p>Imię: {this.props.display2.name}, Nazwisko: {this.props.display2.surname}</p>
+                <LowestLowestChild author={this.props.display2}/>
             </div>
         );
+
     }
 }

@@ -5,48 +5,60 @@ import {
     Route,
     Link
 } from "react-router-dom";
-import MyForm from "./cw1/cw1";
-import Dashboard from "./cw2/cw2";
-import Altkom from "./cw3/cw3";
-import Testowa from "./cw4/cw4";
 
-export default function RouterExample() {
-    return (
+import MyForm from "../cw1/cw1"
+import Parent from "../cw2/cw2"
+import Calc from "../cw3/cw3"
+import LifecycleTest from "../cw4/cw4"
+
+
+export default function Switcher() {
+    return(
         <Router>
             <div>
                 <ul>
                     <li>
-                        <Link to="./cw1/cw1">cw1</Link>
+                        <Link to="../cw1/cw1">MyForm</Link>
                     </li>
                     <li>
-                        <Link to="./cw2/cw2">cw2</Link>
+                        <Link to="../cw2/cw2">Parent</Link>
                     </li>
                     <li>
-                        <Link to="./cw3/cw3">cw3</Link>
+                        <Link to="../cw3/cw3">Calc</Link>
                     </li>
                     <li>
-                        <Link to="./cw4/cw4">cw4</Link>
+                        <Link to="../cw4/cw4">LifecycleTest</Link>
                     </li>
+
+
+
                 </ul>
 
-                <hr/>
-
                 <Switch>
-                    <Route path="./cw1/cw1">
+                    <Route path="../cw1/cw1">
                         <MyForm/>
                     </Route>
-                    <Route path="./cw2/cw2">
-                        <Dashboard/>
+
+                    <Route path="../cw2/cw2">
+                        <Parent/>
                     </Route>
-                    <Route path="./cw3/cw3">
-                        <Altkom/>
+
+                    <Route path="../cw3/cw3">
+                        <Calc/>
                     </Route>
-                    <Route path="./cw4/cw4">
-                        <Testowa/>
+
+
+                    <Route path="../cw4/cw4">
+                        <LifecycleTest/>
                     </Route>
+
+
                 </Switch>
 
             </div>
+
+
         </Router>
     );
+
 }
